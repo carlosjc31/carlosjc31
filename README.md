@@ -24,7 +24,7 @@
   
 ## 🌐 Cloud | DevOps | MLOps
 
-Azure - AWS - Kubernetes - Docker - Terraform - Jenkins - GitHub Actions - 
+Azure - AWS - OCI - Kubernetes - Docker - Terraform - Jenkins - GitHub Actions - 
 Ansible - Linux - PostgreSQL
 
 </div>
