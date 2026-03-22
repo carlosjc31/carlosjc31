@@ -45,7 +45,7 @@ Postman - DBeaver - Maven - Java
 ## 🧠 IA/ML Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGrafh](https://img.shields.io/badge/LangGrafh-1C3C2B?style=for-the-badge&logo=langgrafh&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-412991?style=for-the-badge&logo=MCP&logoColor=white) ![Agents](https://img.shields.io/badge/Agents-1C3C222?style=for-the-badge&logo=Agents&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGrafh](https://img.shields.io/badge/LangGrafh-1C3C3C?style=for-the-badge&logo=langgrafh&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-412991?style=for-the-badge&logo=MCP&logoColor=white) ![Agents](https://img.shields.io/badge/Agents-1C3C222?style=for-the-badge&logo=Agents&logoColor=white)
 ![AI Studio](https://img.shields.io/badge/AI/Agents-4776CC?style=for-the-badge&logo=AI-Agents&logoColor=white)
 </div>
 
