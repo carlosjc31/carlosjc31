@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello!+I'm+José+Carlos+Carneiro;+👋+Systems+Analyst;+Passionate+about+technology!+%E2%9D%A4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello!+I'm+José+Carlos+Carneiro;+Systems+Analyst;+Passionate+about+technology!+%E2%9D%A4" alt="Typing SVG" />
 </div>
 
 <hr>
@@ -13,10 +13,10 @@
 <hr>
 <div align="left">
 
-- 🔭 **Currently working** on projects with Azure, Docker, Kubernetes e DevOps
-- 🌱 **Learning** MCP e Agents
-- 👯 **Open to** collabotations in open-source
-- 💬 **Ask me about** DevOps, Cloud, Agents or MCP
+ - 🔭 **Currently working** on projects with Azure, Docker, Kubernetes e DevOps
+ - 🌱 **Learning** MCP e Agents
+ - 👯 **Open to** collabotations in open-source
+ - 💬 **Ask me about** DevOps, Cloud, Agents or MCP
 </div>
 
 <hr>
@@ -24,8 +24,8 @@
   
 ## 🌐 Cloud | DevOps | MLOps
 
-Azure - AWS - Kubernetes - Docker - Terraform - 
-Jenkins - GitHub Actions - Ansible - Linux - PostgreSQL
+Azure - AWS - Kubernetes - Docker - Terraform - Jenkins - GitHub Actions - 
+Ansible - Linux - PostgreSQL
 
 </div>
 
@@ -54,16 +54,16 @@ Postman - DBeaver - Maven - Java
   
 ## 📈 Featured Projects
 
-- **ML Projects** Churn Prediction
-- **RAG Pipeline** with LangChain + Redis
-- **Fine-tuning Llama3** for specific use cases
-- **Autonomous Agents** multi-tool with Atigravity
-- **Enterprise Chatbot** with custom embeddings 
-- 
+  - **ML Projects** Churn Prediction
+  - **RAG Pipeline** with LangChain + Redis
+  - **Fine-tuning Llama3** for specific use cases
+  - **Autonomous Agents** multi-tool with Atigravity
+  - **Enterprise Chatbot** with custom embeddings 
+
 </div>
 <hr>
 
-🌐 Connect with me
+## 🌐 Connect with me
 <div align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 <br>
