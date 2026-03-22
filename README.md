@@ -13,7 +13,7 @@
 <hr>
 <div align="left">
 
- - 🔭 **Currently working** on projects with Azure, Docker, Kubernetes and DevOps
+ - 🔭 **Currently working** on projects with Azure, Docker, Kubernetes, DevOps and MLOps
  - 🌱 **Learning** MCP and Agents
  - 👯 **Open to** collabotations in open-source
  - 💬 **Ask me about** DevOps, Cloud, Agents or MCP
@@ -25,7 +25,7 @@
 ## 🌐 Cloud | DevOps | MLOps
 
 Azure - AWS - OCI - Kubernetes - Docker - Terraform - Jenkins - GitHub Actions - 
-Ansible - Linux - PostgreSQL
+Ansible - Linux - PostgreSQL - Grafana
 
 </div>
 
