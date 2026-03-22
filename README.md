@@ -13,8 +13,8 @@
 <hr>
 <div align="left">
 
- - 🔭 **Currently working** on projects with Azure, Docker, Kubernetes e DevOps
- - 🌱 **Learning** MCP e Agents
+ - 🔭 **Currently working** on projects with Azure, Docker, Kubernetes and DevOps
+ - 🌱 **Learning** MCP and Agents
  - 👯 **Open to** collabotations in open-source
  - 💬 **Ask me about** DevOps, Cloud, Agents or MCP
 </div>
