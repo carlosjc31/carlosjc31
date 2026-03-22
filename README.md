@@ -57,6 +57,7 @@ Postman - DBeaver - Maven - Java
 - **Fine-tuning Llama3** para casos de uso específicos
 - **Agentes Autônomos** multi-tool com Grok
 - **Chatbot Enterprise** com embeddings customizados
+- 
 </div>
 <hr>
 
