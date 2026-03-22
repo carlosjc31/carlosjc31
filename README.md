@@ -9,13 +9,15 @@
 </div>
 
 <hr>
-**Olá! Sou José Carlos Carneiro**
+<div align="left">
+  
+  Olá! Sou José Carlos Carneiro
 
 - 🔭 **Trabalhando atualmente** em projetos com Azure, Kubernetes e DevOps
 - 🌱 **Aprendendo** MCP e Agentes
 - 👯 **Aberto a** colaborações em open-source
 - 💬 **Me pergunte sobre** DevOps, Cloud, React ou carreira na tech
-
+</div>
 
 <hr>
 <div align="left">
