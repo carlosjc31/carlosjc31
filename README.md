@@ -13,7 +13,7 @@
 <hr>
 <div align="left">
 
- - 🔭 **Currently working** on projects with Azure, Docker, Kubernetes, DevOps and MLOps
+ - 🔭 **Currently working** On projects with Azure, Docker, Kubernetes, DevOps, MLOps and Process Automation.
  - 🌱 **Learning** MCP and Agents
  - 👯 **Open to** collabotations in open-source
  - 💬 **Ask me about** DevOps, Cloud, Agents or MCP
