@@ -54,11 +54,11 @@ Postman - DBeaver - Maven - Java
   
 ## 📈 Featured Projects
 
-  - **ML Projects** Churn Prediction
-  - **RAG Pipeline** with LangChain + Redis
-  - **Fine-tuning Llama3** for specific use cases
-  - **Autonomous Agents** multi-tool with Atigravity
-  - **Enterprise Chatbot** with custom embeddings 
+- **Agent Orchestration** Core of Agent management
+- **RAG Pipeline** with LangChain + Redis
+- **Fine-tuning of Llama3** for specific use cases
+- **Autonomous Agents** multi-tool with Atigravity
+- **Audit Agents** with report generation
 
 </div>
 <hr>
