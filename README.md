@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="320px" max-width="320px" width="320px" align="right">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="320px" max-width="320px" width="300px" align="right">
 </div>
 
 <hr>
@@ -17,6 +17,7 @@
  - 🌱 **Learning** MCP and Agents
  - 👯 **Open to** collabotations in open-source
  - 💬 **Ask me about** DevOps, Cloud, Agents or MCP
+   
 </div>
 
 <hr>
