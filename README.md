@@ -17,6 +17,7 @@
  - 🌱 **Learning** MCP and Agents
  - 👯 **Open to** collabotations in open-source
  - 💬 **Ask me about** DevOps, Cloud, Agents or MCP
+
    
 </div>
 
