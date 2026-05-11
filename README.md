@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="320px" max-width="320px" width="300px" align="right">
 </div>
-
+  I am a Systems Analyst, working with agents for process automation, cloud, infrastructure, focusing on security and corporate governance. 
 <hr>
 <div align="left">
 
