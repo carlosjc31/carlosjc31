@@ -16,17 +16,23 @@ Sorocaba, SP — Brazil 🇧🇷
 ## About me
 
 I bridge business operations and software. After **18 years in industrial process analysis**, I now build and
-run production systems end to end: from the database migration and the API to the Docker image, the deploy
-and the backup.
+run production systems end to end: from the database migration and the API to the Docker image, the edge
+network, the deploy and the backup.
 
 Today I develop and operate internal platforms at **Grupo OC**, ship features through an issue-driven workflow
 with code review, and use AI coding agents (Claude Code, Codex) under written engineering rules to deliver
 faster without lowering the bar.
 
+## 🧭 Experience
+
 - 🏭 **Schaeffler** — 18 years in industrial process analysis (SAP, Lean): **−20% unplanned downtime**
 - 🤖 **ASSA ABLOY Group** — built AI agents that removed **50% of repetitive manual tasks**
-- 💼 **Grupo OC** — full stack development, infrastructure, production deploys and backups
-- 🎓 **Fatec Itu** — Systems Analysis and Development (ADS)
+- 💼 **Grupo OC** — full stack development, server administration, production deploys and backups
+
+## 🎓 Education
+
+- **Fatec Itu** — Technologist in Systems Analysis and Development (ADS)
+- **Fatec Sorocaba** — Technologist in Metallurgical Processes (2016–2019)
 
 ## 💼 Professional work — Grupo OC
 
@@ -34,7 +40,8 @@ Private repositories, built in collaboration with [@Calebe-Dev](https://github.c
 
 | Product | What I do | Stack |
 |---|---|---|
-| **OC Hub** — internal CRM/ERP for sales, orders and partners | Full stack features (order pipeline, kanban SLA, filters, notifications, document checklists), database migrations, security tests, production deploys and encrypted off-site backups | Angular SSR · Node.js/Express · PostgreSQL · Docker Compose · Nginx · GitHub Actions |
+| **OC Hub** — internal CRM/ERP for sales, orders and partners | Full stack features (order pipeline, kanban SLA, filters, notifications, document checklists), database migrations and security tests | Angular SSR · Node.js/Express · PostgreSQL · Docker Compose |
+| **Server & edge infrastructure** — self-hosted Linux server behind Cloudflare | Cloudflare Tunnel, DNS and edge caching rules, blue-green zero-downtime deploys behind Nginx, CI-built Docker images, automated backups | Cloudflare · Nginx · Docker · GitHub Actions · Linux |
 | **LIA Service Desk** — multitenant SaaS for customer support over the official WhatsApp API | Contributor | Node.js · Java · Python · Docker |
 | **OcZap** — customer mobile app connected to the LIA platform | Contributor | TypeScript |
 | **Bot platform** — multitenant B2B chatbots, one backend serving many brands and sites | Author | Node.js · Docker |
@@ -83,6 +90,7 @@ automated tests (including XSS and access-control cases) · AI coding agents wor
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![OCI](https://img.shields.io/badge/OCI-C74634?style=flat-square&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
