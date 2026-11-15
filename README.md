@@ -25,8 +25,8 @@ faster without lowering the bar.
 
 ## 🧭 Experience
 
-- 🏭 **Schaeffler** — 18 years in industrial process analysis (SAP, Lean): **−20% unplanned downtime**
-- 🤖 **ASSA ABLOY Group** — built AI agents that removed **50% of repetitive manual tasks**
+- 🏭 **Schaeffler Group** — 18 years in industrial process analysis (SAP, Lean): **−20% unplanned downtime**
+- 🤖 **ASSA ABLOY Group** — 5 years building AI agents that removed **50% of repetitive manual tasks**
 - 💼 **Grupo OC** — full stack development, server administration, production deploys and backups
 
 ## 🎓 Education
