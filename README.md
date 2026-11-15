@@ -19,7 +19,7 @@ I bridge business operations and software. After **18 years in industrial proces
 run production systems end to end: from the database migration and the API to the Docker image, the edge
 network, the deploy and the backup.
 
-Today I develop and operate internal platforms at **Grupo OC**, ship features through an issue-driven workflow
+Currently, I develop and operate internal platforms at **Grupo OC**, ship features through an issue-driven workflow
 with code review, and use AI for process automation, under written engineering rules to deliver
 faster without lowering the bar.
 
