@@ -20,7 +20,7 @@ run production systems end to end: from the database migration and the API to th
 network, the deploy and the backup.
 
 Today I develop and operate internal platforms at **Grupo OC**, ship features through an issue-driven workflow
-with code review, and use AI coding agents (Claude Code, Codex) under written engineering rules to deliver
+with code review, and use AI for process automation, under written engineering rules to deliver
 faster without lowering the bar.
 
 ## 🧭 Experience
@@ -31,7 +31,7 @@ faster without lowering the bar.
 
 ## 🎓 Education
 
-- **Fatec Itu** — Technologist in Systems Analysis and Development (ADS)
+- **Fatec Itu** — Technologist in Systems Analysis and Development (ADS) (2023-2026)
 - **Fatec Sorocaba** — Technologist in Metallurgical Processes (2016–2019)
 
 ## 💼 Professional work — Grupo OC
@@ -94,7 +94,7 @@ automated tests (including XSS and access-control cases) · AI coding agents wor
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes_(learning)-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
 
 **AI & ML**
 
