@@ -26,7 +26,7 @@ faster without lowering the bar.
 ## 🧭 Experience
 
 - 🏭 **Schaeffler Group** — 18 years in industrial process analysis (SAP, Lean): **−20% unplanned downtime**
-- 🤖 **ASSA ABLOY Group** — 5 years building AI agents that removed **50% of repetitive manual tasks**
+- 🤖 **ASSA ABLOY Group** — 2021–2026, building AI agents that removed **50% of repetitive manual tasks**
 - 💼 **Grupo OC** — full stack development, server administration, production deploys and backups
 
 ## 🎓 Education
@@ -40,12 +40,12 @@ Private repositories, built in collaboration with [@Calebe-Dev](https://github.c
 
 | Product | What I do | Stack |
 |---|---|---|
-| **OC Hub** — internal CRM/ERP for sales, orders and partners | Full stack features (order pipeline, kanban SLA, filters, notifications, document checklists), database migrations and security tests | Angular SSR · Node.js/Express · PostgreSQL · Docker Compose |
-| **Server & edge infrastructure** — self-hosted Linux server behind Cloudflare | Cloudflare Tunnel, DNS and edge caching rules, blue-green zero-downtime deploys behind Nginx, CI-built Docker images, automated backups | Cloudflare · Nginx · Docker · GitHub Actions · Linux |
-| **LIA Service Desk** — multitenant SaaS for customer support over the official WhatsApp API | Contributor | Node.js · Java · Python · Docker |
+| **OC Hub** — internal CRM/ERP for sales, orders and partners | Full stack features (order pipeline, kanban SLA, filters, notifications, document checklists), database migrations and security tests | Angular SSR · Node.js/Express · Directus · PostgreSQL · Docker Compose |
+| **Server & edge infrastructure** — on-premises Linux server and VPS behind Cloudflare | Cloudflare Tunnel, DNS and edge caching rules, blue-green zero-downtime deploys behind Nginx, CI-built Docker images, automated backups | Cloudflare · Nginx · Docker · GitHub Actions · Linux |
+| **LIA Service Desk** — multitenant SaaS for customer support over WhatsApp (Baileys today, built to switch to the official Cloud API) | Contributor | Node.js · Java · Python · Docker |
 | **OcZap** — customer mobile app connected to the LIA platform | Contributor | TypeScript |
 | **Bot platform** — multitenant B2B chatbots, one backend serving many brands and sites | Author | Node.js · Docker |
-| **Corporate sites & sales landing pages** | Contributor | SvelteKit · TypeScript |
+| **Corporate sites & sales landing pages** — 21 sites in production | SEO and web performance: load time cut from 11s to 4s, with more traffic and better Google rankings | SvelteKit · TypeScript |
 
 **How we work:** issue-driven development on GitHub Projects · Conventional Commits · pull requests with review ·
 automated tests (including XSS and access-control cases) · AI coding agents working under a written contract
@@ -80,6 +80,7 @@ automated tests (including XSS and access-control cases) · AI coding agents wor
 **Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Directus](https://img.shields.io/badge/Directus-263238?style=flat-square&logo=directus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
