@@ -25,14 +25,14 @@ faster without lowering the bar.
 
 ## 🧭 Experience
 
-- 🏭 **Schaeffler Group** — 18 years in industrial process analysis (SAP, Lean): **−20% unplanned downtime**
-- 🤖 **ASSA ABLOY Group** — 4+ years as Systems Analyst; built AI agents that removed 50% of repetitive manual tasks”.**
-- 💼 **Grupo OC** — full stack development, server administration, production deploys and backups
+- **Schaeffler Group**: 18 years in industrial process analysis (SAP, Lean): **−20% unplanned downtime**
+- **ASSA ABLOY Group**: 4+ years as Systems Analyst; **built AI agents that removed 50% of repetitive manual tasks.**
+- **Grupo OC**: full stack development, server administration, production deploys and backups
 
 ## 🎓 Education
 
-- **Fatec Itu** — Technologist in Systems Analysis and Development (ADS) (2023-2026)
-- **Fatec Sorocaba** — Technologist in Metallurgical Processes (2016–2019)
+- **Fatec Itu**: Technologist in Systems Analysis and Development (ADS) (2023-2026)
+- **Fatec Sorocaba**: Technologist in Metallurgical Processes (2016–2019)
 
 ## 💼 Professional work — Grupo OC
 
@@ -40,12 +40,12 @@ Private repositories, built in collaboration with [@Calebe-Dev](https://github.c
 
 | Product | What I do | Stack |
 |---|---|---|
-| **OC Hub** — internal CRM/ERP for sales, orders and partners | Full stack features (order pipeline, kanban SLA, filters, notifications, document checklists), database migrations and security tests | Angular SSR · Node.js/Express · Directus · PostgreSQL · Docker Compose |
-| **Server & edge infrastructure** — on-premises Linux server and VPS behind Cloudflare | Cloudflare Tunnel, DNS and edge caching rules, blue-green zero-downtime deploys behind Nginx, CI-built Docker images, automated backups | Cloudflare · Nginx · Docker · GitHub Actions · Linux |
-| **LIA Service Desk** — multitenant SaaS for customer support over WhatsApp (Built to switch to the official Cloud API) | Contributor | Node.js · Java · Python · Docker |
-| **OcZap** — customer mobile app connected to the LIA platform | Contributor | TypeScript |
-| **Bot platform** — multitenant B2B chatbots, one backend serving many brands and sites | Author | Node.js · Docker |
-| **Corporate sites & sales landing pages** — 21 sites in production | SEO and web performance: load time cut from 11s to 4s, with more traffic and better Google rankings | SvelteKit · TypeScript |
+| **OC Hub**: internal CRM/ERP for sales, orders and partners | Full stack features (order pipeline, kanban SLA, filters, notifications, document checklists), database migrations and security tests | Angular SSR · Node.js/Express · Directus · PostgreSQL · Docker Compose |
+| **Server & edge infrastructure**: on-premises Linux server and VPS behind Cloudflare | Cloudflare Tunnel, DNS and edge caching rules, blue-green zero-downtime deploys behind Nginx, CI-built Docker images, automated backups | Cloudflare · Nginx · Docker · GitHub Actions · Linux |
+| **LIA Service Desk**: multitenant SaaS for customer support over WhatsApp (Built to switch to the official Cloud API) | Contributor | Node.js · Java · Python · Docker |
+| **OcZap**: customer mobile app connected to the LIA platform | Contributor | TypeScript |
+| **Bot platform**: multitenant B2B chatbots, one backend serving many brands and sites | Author | Node.js · Docker |
+| **Corporate sites & sales landing pages**: 21 sites in production | SEO and web performance: load time cut from 11s to 4s, with more traffic and better Google rankings | SvelteKit · TypeScript |
 
 **How we work:** issue-driven development on GitHub Projects · Conventional Commits · pull requests with review ·
 automated tests (including XSS and access-control cases) · AI coding agents working under a written contract
