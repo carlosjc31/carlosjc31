@@ -4,7 +4,7 @@
 
 **Systems Analyst · Full Stack & DevOps Engineer · AI-Assisted Engineering**
 
-Sorocaba, SP — Brazil 🇧🇷
+Sorocaba/SP, Brazil 🇧🇷
 
 Open to remote, hybrid or on-site opportunities
 
