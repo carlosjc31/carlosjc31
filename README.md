@@ -47,7 +47,7 @@ Private repositories, built in collaboration with [@Calebe-Dev](https://github.c
 | **LIA Service Desk**: multitenant SaaS for customer support over WhatsApp (Built to switch to the official Cloud API) | Contributor | Node.js · Java · Python · Docker |
 | **OcZap**: customer mobile app connected to the LIA platform | Contributor | TypeScript |
 | **Bot platform**: multitenant B2B chatbots, one backend serving many brands and sites | Author | Node.js · Docker |
-| **Corporate sites & sales landing pages**: 21 sites in production | SEO and web performance: load time cut from 11s to 4s, with more traffic and better Google rankings | SvelteKit · TypeScript |
+| **Corporate sites & sales landing pages**: 21 sites in production | SEO and web performance: load time cut from 9s to 3s, with more traffic and better Google rankings | SvelteKit · TypeScript |
 
 **How we work:** issue-driven development on GitHub Projects · Conventional Commits · pull requests with review ·
 automated tests (including XSS and access-control cases) · AI coding agents working under a written contract
